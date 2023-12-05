@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec < /dev/tty
+python3 git-hook/get-commit-codereview.py $1
