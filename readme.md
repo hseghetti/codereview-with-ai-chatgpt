@@ -1,4 +1,3 @@
-```markdown
 # AI Code Reviewer for git post-commit hook
 
 [![Build Status](https://travis-ci.com/yourusername/ai-code-reviewer.svg?branch=master)](https://travis-ci.com/yourusername/ai-code-reviewer)
